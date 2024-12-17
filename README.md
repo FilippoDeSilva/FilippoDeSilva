@@ -24,9 +24,9 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **Next.js Fullstack School Management System**  
-- 🌱 I’m comfortable working with **Tailwind CSS, Prisma, Zod, and Clerk**  
-- 👯 I’m open to **collaboration on web applications**  
+- 🔭 I’m currently working on **Next.js Fullstack School Management System.**  
+- 🌱 I’m comfortable working with **The stacks I've stated above.**  
+- 👯 I’m open to **collaboration on web applications.**  
 - ⚡ Fun fact: I love building projects, video editing and gaming.  
 
 ---
