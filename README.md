@@ -26,7 +26,7 @@
 ### 🚀 About Me:
 - 🔭 I’m currently working on **Next.js Fullstack School Management System.**  
 - 🌱 I’m comfortable working with the stacks I've stated below.👇
-- 👯 I’m open to **collaboration on web applications.**  
+- 👯 I’m open to **collaboration on web applications, automations, cyber security, mobile development, anything that'll help me to skill up🚀.**  
 - ⚡ Fun fact: I love building projects, video editing and gaming.  
 
 ---
