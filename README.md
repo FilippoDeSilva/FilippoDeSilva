@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/your-telegram-username" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:filippodesilva23@gmail.com?subject=Let's Connect&body=Hi Filippo," target="_blank">
+   <a href="mailto:filippodesilva23@gmail.com?subject=Let's Connect&body=Hi Filippo," target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/@Lt_Col_Sam" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
@@ -67,5 +67,5 @@
 <p>
   🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a><br>
   ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a><br>
-  📱 Telegram: <a href="https://t.me/your-telegram-username" target="_blank">@your-telegram-username</a>
+  📱 Telegram: <a href="https://t.me/@Lt_Col_Sam" target="_blank">@Lt_Col_Sam</a>
 </p>
