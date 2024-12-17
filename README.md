@@ -1,6 +1,11 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center">A passionate Full Stack Developer working on modern web applications</h3>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">
+  <span style="color: #4A90E2;">Hello World</span> 👋, I'm <span style="color: #FFD700;">Filippo</span>
+</h1>
+<h3 align="center" style="font-size: 1.5rem; font-weight: 500;">
+  Full Stack Developer 🚀 | Building <span style="color: #38B2AC;">Web Applications</span>, 
+  <span style="color: #FF6F61;">Automations</span>, and <span style="color: #6B5B95;">Mobile Apps</span> 
+  with modern technologies and clean code.
+</h3>
 
 <!-- Profile views counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=filip-dev&label=Profile%20views&color=0e75b6&style=flat" alt="filip-dev" /> </p>
