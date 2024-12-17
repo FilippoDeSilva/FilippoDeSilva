@@ -8,8 +8,6 @@
 </h3>
 <!-- Profile views counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=filip-dev&label=Profile%20views&color=0e75b6&style=flat" alt="filip-dev" /> </p>
-
-<br>
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">
