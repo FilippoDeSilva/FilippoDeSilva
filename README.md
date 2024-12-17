@@ -21,10 +21,10 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **Next.js School Management Dashboard**  
-- 🌱 I’m learning **Tailwind CSS, Prisma, Zod, and Clerk**  
+- 🔭 I’m currently working on **Next.js Fullstack School Management System**  
+- 🌱 I’m comfortable working with **Tailwind CSS, Prisma, Zod, and Clerk**  
 - 👯 I’m open to **collaboration on web applications**  
-- ⚡ Fun fact: I love video editing, gaming, and building projects.  
+- ⚡ Fun fact: I love building projects, video editing and gaming.  
 
 ---
 
@@ -65,9 +65,9 @@
 
 ### 🔗 Connect with me:
 <p>
-  🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a><br>
-  ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a><br>
-  📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">@Lt_Col_Sam</a>
+  🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">Filippo De Silva</a><br>
+  ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">Filippo De Silva</a><br>
+  📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">Filippo De Silva</a>
 </p>
 
 ---
