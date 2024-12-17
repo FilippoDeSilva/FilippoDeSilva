@@ -21,9 +21,9 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **Next.js School Management System**  
+- 🔭 I’m currently working on **Next.js School Management Dashboard**  
 - 🌱 I’m learning **Tailwind CSS, Prisma, Zod, and Clerk**  
-- 👯 I’m open to **collaboration on web applications, Cyber Security, Artificial Intelligence and Mobile App development**  
+- 👯 I’m open to **collaboration on web applications**  
 - ⚡ Fun fact: I love video editing, gaming, and building projects.  
 
 ---
@@ -67,5 +67,35 @@
 <p>
   🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a><br>
   ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a><br>
-  📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">Filippo De Silva</a>
+  📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">@Lt_Col_Sam</a>
+</p>
+
+---
+
+### 🎓 My Certificates
+<!-- Certificate 1 -->
+<p align="center">
+  <a href="https://www.example.com/certificate-link" target="_blank">
+    <img src="https://www.example.com/certificate-image.png" alt="Certificate 1" width="300" />
+  </a>
+  <br/>
+  <small><a href="https://www.example.com/certificate-link" target="_blank">Certificate Name 1</a></small>
+</p>
+
+<!-- Certificate 2 -->
+<p align="center">
+  <a href="https://www.example.com/certificate-link" target="_blank">
+    <img src="https://www.example.com/certificate-image.png" alt="Certificate 2" width="300" />
+  </a>
+  <br/>
+  <small><a href="https://www.example.com/certificate-link" target="_blank">Certificate Name 2</a></small>
+</p>
+
+<!-- Certificate 3 -->
+<p align="center">
+  <a href="https://www.example.com/certificate-link" target="_blank">
+    <img src="https://www.example.com/certificate-image.png" alt="Certificate 3" width="300" />
+  </a>
+  <br/>
+  <small><a href="https://www.example.com/certificate-link" target="_blank">Certificate Name 3</a></small>
 </p>
