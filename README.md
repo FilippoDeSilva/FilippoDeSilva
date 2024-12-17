@@ -21,9 +21,9 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **Next.js School Management Dashboard**  
+- 🔭 I’m currently working on **Next.js School Management System**  
 - 🌱 I’m learning **Tailwind CSS, Prisma, Zod, and Clerk**  
-- 👯 I’m open to **collaboration on web applications**  
+- 👯 I’m open to **collaboration on web applications, Cyber Security, Artificial Intelligence and Mobile App development**  
 - ⚡ Fun fact: I love video editing, gaming, and building projects.  
 
 ---
