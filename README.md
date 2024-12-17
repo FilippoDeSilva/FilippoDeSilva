@@ -60,6 +60,7 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/-VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -74,9 +75,12 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
-<!-- ### 💡 Fun Projects:
+---
+
+### 💡 Fun Projects:
 - 📝 **[School Management System](https://github.com/FilippoDeSilva/class-unity-fullstack-sms)**  
--->
+
+---
 
 ### 🔗 Connect with me:
 <p>
