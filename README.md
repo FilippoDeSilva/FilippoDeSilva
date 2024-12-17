@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Filip</h1>
+<h1 align="center">Hi 👋, I'm Filippo</h1>
 <h3 align="center">A passionate Full Stack Developer working on modern web applications</h3>
 
 <!-- Profile views counter -->
