@@ -48,19 +48,16 @@
 </p>
 
 ---
+### 📊 GitHub Stats:
 
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" alt="GitHub Streak" />
-  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
 ---
 
 ### 💡 Fun Projects:
