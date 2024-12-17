@@ -67,8 +67,8 @@
 
 ### 🔗 Connect with me:
 <p>
-  🧑‍💻 LinkedIn: **<a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a>**  <br>
-  🐦 Twitter: **<a href="https://twitter.com/your-twitter" target="_blank">@your-twitter</a>**  <br>
-  ✉️ Email: **<a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a>**  <br>
-  🌐 Portfolio: **<a href="https://your-portfolio-url" target="_blank">your-portfolio-url</a>**  <br>
+  🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a><br>
+  🐦 Twitter: <a href="https://twitter.com/your-twitter" target="_blank">@your-twitter</a><br>
+  ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a><br>
+  🌐 Portfolio: <a href="https://your-portfolio-url" target="_blank">your-portfolio-url</a><br>
 </p>
