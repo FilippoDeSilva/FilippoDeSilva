@@ -74,12 +74,9 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
----
-
-### 💡 Fun Projects:
+<!-- ### 💡 Fun Projects:
 - 📝 **[School Management System](https://github.com/FilippoDeSilva/class-unity-fullstack-sms)**  
-
----
+-->
 
 ### 🔗 Connect with me:
 <p>
