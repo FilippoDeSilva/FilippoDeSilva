@@ -67,7 +67,8 @@
 
 ### 🔗 Connect with me:
 <p>
-  🧑‍💻 LinkedIn: **(https://linkedin.com/in/filippo-de-silva-0982a7342)**  
-  🐦 Twitter: **[@your-twitter](https://twitter.com/your-twitter)**  
-  ✉️ Email: **filippodesilva23@gmail.com**  
+  🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a>  
+  🐦 Twitter: <a href="https://twitter.com/your-twitter" target="_blank">@your-twitter</a>  
+  ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a>
 </p>
+
