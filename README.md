@@ -72,27 +72,3 @@
   ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">Filippo De Silva</a><br>
   📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">Filippo De Silva</a>
 </p>
-
----
-
-### 🎓 My Certificates
-<!-- Certificate 1 -->
-<p align="center">
-  <a href="https://www.udacity.com/certificate/e/de64d914-4bfb-11ef-a2f8-33d9e320c964" target="_blank">
-    Udacity: Programming Fundamentals Certificate
-  </a>
-</p>
-
-<!-- Certificate 2 -->
-<p align="center">
-  <a href="https://www.udacity.com/certificate/e/c9cf20ea-4bf1-11ef-bb16-bfd1770cfe5e" target="_blank">
-     Udacity: Andoid Developement Fundamentals Certificate
-  </a>
-</p>
-
-<!-- Certificate 3 -->
-<p align="center">
-  <a href="https://www.udacity.com/certificate/e/e6283bb0-4bf0-11ef-bff6-b3b7df83d3f6" target="_blank">
-    Udacity: Data Analysis Fundamentals Certificate
-  </a>
-</p>
