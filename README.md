@@ -82,14 +82,14 @@
 
 <!-- Certificate 2 -->
 <p align="center">
-  <a href="https://www.udacity.com/certificate/e/e6283bb0-4bf0-11ef-bff6-b3b7df83d3f6" target="_blank">
-    Udacity: Data Analysis Developement Certificate
+  <a href="https://www.udacity.com/certificate/e/c9cf20ea-4bf1-11ef-bb16-bfd1770cfe5e" target="_blank">
+     Udacity: Andoid Developement Fundamentals Certificate
   </a>
 </p>
 
 <!-- Certificate 3 -->
 <p align="center">
-  <a href="https://www.udacity.com/certificate/e/c9cf20ea-4bf1-11ef-bb16-bfd1770cfe5e" target="_blank">
-     Udacity: Andoid Developement Fundamentals Certificate
+  <a href="https://www.udacity.com/certificate/e/e6283bb0-4bf0-11ef-bff6-b3b7df83d3f6" target="_blank">
+    Udacity: Data Analysis Fundamentals Certificate
   </a>
 </p>
