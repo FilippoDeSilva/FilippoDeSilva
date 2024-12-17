@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3rem; font-weight: bold;">
-  <span style="color: #4A90E2;">Hello World</span> 👋, I'm <span style="color: #FFD700;">Filippo</span>
+  <span style="color: #4A90E2;">Hello</span> 👋, I'm <span style="color: #FFD700;">Filippo</span>
 </h1>
 <h3 align="center" style="font-size: 1.5rem; font-weight: 500;">
   Full Stack Developer 🚀 | Building <span style="color: #38B2AC;">Web Applications</span>, 
