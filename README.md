@@ -7,13 +7,13 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/filippo-de-silva-0982a7342" target="new">
+  <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
+  <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:youremail@gmail.com" target="blank">
+  <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
