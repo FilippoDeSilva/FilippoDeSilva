@@ -79,7 +79,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Udacity_Logo.svg" alt="Certificate 1" width="300" />
   </a>
   <br/>
-  <small><a href="https://www.udacity.com/certificate/e/de64d914-4bfb-11ef-a2f8-33d9e320c964" target="_blank">Udacity Certificate 1</a></small>
+  <small><a href="https://www.udacity.com/certificate/e/de64d914-4bfb-11ef-a2f8-33d9e320c964" target="_blank">Udacity: Programming Fundamentals Certificate</a></small>
 </p>
 
 <!-- Certificate 2 -->
@@ -88,7 +88,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Udacity_Logo.svg" alt="Certificate 2" width="300" />
   </a>
   <br/>
-  <small><a href="https://www.udacity.com/certificate/e/e6283bb0-4bf0-11ef-bff6-b3b7df83d3f6" target="_blank">Udacity Certificate 2</a></small>
+  <small><a href="https://www.udacity.com/certificate/e/e6283bb0-4bf0-11ef-bff6-b3b7df83d3f6" target="_blank">Udacity: Data Analysis Fundamentals Certificate</a></small>
 </p>
 
 <!-- Certificate 3 -->
@@ -97,5 +97,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Udacity_Logo.svg" alt="Certificate 3" width="300" />
   </a>
   <br/>
-  <small><a href="https://www.udacity.com/certificate/e/c9cf20ea-4bf1-11ef-bb16-bfd1770cfe5e" target="_blank">Udacity Certificate 3</a></small>
+  <small><a href="https://www.udacity.com/certificate/e/c9cf20ea-4bf1-11ef-bb16-bfd1770cfe5e" target="_blank">Udacity: Android Development Fundamentals Certificate</a></small>
 </p>
