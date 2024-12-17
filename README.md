@@ -53,6 +53,8 @@
   <img src="https://img.shields.io/badge/-Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Stream_Chat-%2366CCFF?style=for-the-badge&logo=stream&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Clerk-%23000000?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
 <p align="center">
   <!-- Tools -->
