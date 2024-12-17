@@ -13,9 +13,9 @@
    <a href="mailto:filippodesilva23@gmail.com?subject=Let's Connect&body=Hi Filippo," target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/@Lt_Col_Sam" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <a href="https://t.me/your-telegram-username?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </p>
 
 ---
