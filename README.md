@@ -53,8 +53,8 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" alt="GitHub Streak" />
+ <!-- GitHub Streak Stats (Fallback Alternative) -->
+  <img src="https://img.shields.io/github/commit-activity/m/FilippoDeSilva?style=for-the-badge" alt="GitHub Activity" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
