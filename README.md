@@ -4,7 +4,7 @@
 <h3 align="center" style="font-size: 1.5rem; font-weight: 500;">
   Full Stack Developer 🚀 | Building <span style="color: #38B2AC;">Web Applications</span>, 
   <span style="color: #FF6F61;">Automations</span>, and <span style="color: #6B5B95;">Mobile Apps</span> 
-  with modern technologies and clean code.
+  with <br> modern technologies and clean code.
 </h3>
 
 <!-- Profile views counter -->
