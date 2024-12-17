@@ -10,12 +10,12 @@
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
- <a href="mailto:filippodesilva23@gmail.com?subject=Let's Connect&body=Hi Filippo," target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <a href="https://t.me/your-telegram-username" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:filippodesilva23@gmail.com?subject=Let's Connect&body=Hi Filippo," target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
@@ -61,13 +61,11 @@
 ### 💡 Fun Projects:
 - 📝 **[School Management System](https://github.com/FilippoDeSilva/class-unity-fullstack-sms)**  
 
-
 ---
 
 ### 🔗 Connect with me:
 <p>
   🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">linkedin.com/in/filippo-de-silva-0982a7342</a><br>
-<!--   🐦 Twitter: <a href="https://twitter.com/your-twitter" target="_blank">@your-twitter</a><br> -->
   ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">filippodesilva23@gmail.com</a><br>
-<!--   🌐 Portfolio: <a href="https://your-portfolio-url" target="_blank">your-portfolio-url</a><br> -->
+  📱 Telegram: <a href="https://t.me/your-telegram-username" target="_blank">@your-telegram-username</a>
 </p>
