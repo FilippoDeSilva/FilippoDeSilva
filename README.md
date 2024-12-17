@@ -35,6 +35,7 @@
     <li>Mobile Development</li>
     <li>Anything that'll help me to skill up 🚀</li>
   </ul>
+  
   ⚡ Fun fact: I love building projects, video editing, and gaming.
 </p>
 
