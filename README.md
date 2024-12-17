@@ -97,5 +97,5 @@
 <!--     <img src="https://www.example.com/certificate-image.png" alt="Certificate 3" width="300" /> -->
   </a>
   <br/>
-  <small><a href="https://www.example.com/certificate-link" target="_blank">Certificate Name 3</a></small>
+  <small><a href="www.udacity.com/certificate/e/c9cf20ea-4bf1-11ef-bb16-bfd1770cfe5e" target="_blank">Certificate Name 3</a></small>
 </p>
