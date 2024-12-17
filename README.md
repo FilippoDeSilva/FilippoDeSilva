@@ -34,14 +34,21 @@
   <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/-React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <!-- Tools -->
   <img src="https://img.shields.io/badge/-VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
