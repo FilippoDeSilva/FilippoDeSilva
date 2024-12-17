@@ -30,29 +30,29 @@
 
 ### 🛠️ Tech Stack:
 
-<p align="center" class="badge-container">
+<p align="center">
   <!-- Languages -->
-  <span class="badge">TypeScript</span>
-  <span class="badge">JavaScript</span>
-  <span class="badge">Python</span>
-  <span class="badge">Go</span>
-  <span class="badge">Java</span>
-  <span class="badge">HTML5</span>
-  <span class="badge">CSS3</span>
+  <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-%23F8981D?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- Frontend -->
-  <span class="badge">Next.js</span>
-  <span class="badge">React</span>
-  <span class="badge">React Native</span>
-  <span class="badge">Tailwind CSS</span>
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/-React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <!-- Backend -->
-  <span class="badge">Node.js</span>
-  <span class="badge">MongoDB</span>
-  <span class="badge">Prisma</span>
-  <span class="badge">Firebase</span>
-  <span class="badge">Docker</span>
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <!-- Tools -->
-  <span class="badge">VS Code</span>
-  <span class="badge">Git</span>
+  <img src="https://img.shields.io/badge/-VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -80,59 +80,3 @@
   ✉️ Email: <a href="mailto:filippodesilva23@gmail.com">Filippo De Silva</a><br>
   📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">Filippo De Silva</a>
 </p>
-
-<style>
-  /* Styling for the badge container */
-  .badge-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 20px;
-  }
-
-  /* Basic badge styles */
-  .badge {
-    display: inline-block;
-    background-color: #333;
-    color: white;
-    font-size: 14px;
-    font-weight: 600;
-    border-radius: 30px;
-    padding: 8px 16px;
-    text-align: center;
-    transition: transform 0.3s ease, background-color 0.3s ease;
-  }
-
-  /* Hover effect for badges */
-  .badge:hover {
-    transform: translateY(-5px);
-    background-color: #5A67D8;
-  }
-
-  /* Adding animation for badge appearance */
-  @keyframes badgeFade {
-    0% {
-      opacity: 0;
-      transform: scale(0.8);
-    }
-    100% {
-      opacity: 1;
-      transform: scale(1);
-    }
-  }
-
-  /* Apply animation to badges */
-  .badge {
-    animation: badgeFade 0.5s ease-out forwards;
-  }
-
-  /* Stagger animation for a more dynamic effect */
-  .badge:nth-child(odd) {
-    animation-delay: 0.2s;
-  }
-
-  .badge:nth-child(even) {
-    animation-delay: 0.4s;
-  }
-</style>
