@@ -7,7 +7,7 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="www.linkedin.com/in/filippo-de-silva-0982a7342" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="blank">
