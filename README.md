@@ -59,7 +59,7 @@
 ---
 
 ### 💡 Fun Projects:
-- 📝 **[School Management System]((https://github.com/FilippoDeSilva/class-unity-fullstack-sms))**  
+- 📝 **[School Management System](https://github.com/FilippoDeSilva/class-unity-fullstack-sms)**  
 - 🚀 **[Next.js Chat Application](https://github.com/your-repo-url)**  
 - 🎨 **[Responsive Dashboard](https://github.com/your-repo-url)**  
 
