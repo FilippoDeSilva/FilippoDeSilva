@@ -16,13 +16,10 @@
   <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</p>
-
----
-
-<!-- New section for website link -->
-<p align="center">
-  🌐 Website: <a href="https://www.filippoportfolio.com" target="_blank">www.filippoportfolio.com</a>
+  <!-- Website Link -->
+  <a href="https://filippodesilva.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 ---
@@ -86,15 +83,11 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <!-- GitHub Streak Stats -->
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" alt="GitHub Streak" /> -->
-  <!-- Top Languages -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
 ### 🔗 Connect with me:
 <p>
   🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">Filippo De Silva</a><br>
   📱 Telegram: <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">Filippo De Silva</a><br>
-  🌐 Website: <a href="https://www.filippoportfolio.com" target="_blank">www.filippoportfolio.com</a>
+  🌐 Website: <a href="https://filippodesilva.vercel.app" target="_blank">My Website</a>
 </p>
