@@ -100,8 +100,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="140"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&no-frame=true&column=6" height="140"/>
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="160"/>
 </p>
