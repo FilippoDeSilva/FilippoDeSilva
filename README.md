@@ -1,12 +1,13 @@
+<!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20👋,%20I'm%20Filippo%20De%20Silva!;Full%20Stack%20Engineer%20%F0%9F%9A%80;Building%20Modern%20Web%20Apps%20%F0%9F%9A%80;Automation%20and%20Mobile%20Enthusiast%20%F0%9F%92%BB&center=true&width=700&height=45" alt="Typing SVG" />
+  👋 Hi, I'm Filippo De Silva
 </h1>
-
 <p align="center">
   <b>Full Stack Engineer · Tech Innovator · Creative Collaborator</b><br>
   <i>Let's build something amazing together! 🚀</i>
 </p>
 
+<!-- Social Media (Centered, Rounded SVG Icons) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="border-radius:50%;margin:8px"/>
@@ -44,27 +45,36 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" style="margin:5px"/>
-  <br/>
+  <br>
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" style="margin:5px;background:#fff;border-radius:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React Native" style="margin:5px"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4/fff.svg" width="36" height="36" alt="Tailwind CSS" style="margin:5px; border-radius:8px; background:#fff"/>
-  <br/>
+  <br>
+  <!-- Backend / Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" style="margin:5px"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E/fff.svg" width="36" height="36" alt="Supabase" style="margin:5px; border-radius:8px; background:#fff"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" style="margin:5px"/>
   <img src="https://cdn.simpleicons.org/stream/06B6D4/fff.svg" width="36" height="36" alt="Stream Chat" style="margin:5px; border-radius:8px; background:#fff"/>
   <img src="https://avatars.githubusercontent.com/u/72380216?s=200&v=4" width="36" height="36" alt="Clerk" style="margin:5px;border-radius:8px;background:#fff"/>
-  <br/>
+  <br>
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" style="margin:5px"/>
@@ -72,10 +82,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" height="120"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=tokyo-night" alt="GitHub Activity Graph" height="200"/>
 </p>
