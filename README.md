@@ -7,8 +7,22 @@
   <i>Let's build something amazing together! 🚀</i>
 </p>
 
+<br/>
+
+<!-- ABOUT ME -->
+## 🙋‍♂️ About Me
+<div align="center">
+
+Seasoned Full Stack Engineer with a passion for building robust, scalable applications and delivering innovative tech solutions.  
+I specialize in modern web technologies and cloud platforms, always striving for clean code, seamless user experiences, and creative collaboration.  
+Driven by curiosity and a growth mindset, I enjoy tackling new challenges and transforming ideas into impactful products.
+
+</div>
+
+<br/>
+
+<!-- SOCIAL LINKS -->
 <p align="center">
-  <!-- Social Links -->
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
@@ -30,71 +44,65 @@
   </a>
 </p>
 
-<br />
-
 ---
 
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=3178c6" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f7df1e" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776ab" />
-  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8" />
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396" />
-  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&color=00599C" />
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=e34f26" />
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=1572b6" />
+  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61dafb" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&color=000" />
-  <img src="https://img.shields.io/badge/Frontend-Tailwind-informational?style=flat&logo=tailwindcss&color=06B6D4" />
-  <img src="https://img.shields.io/badge/Frontend-React_Native-informational?style=flat&logo=react&color=61dafb" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61dafb?style=flat&logo=react&logoColor=black" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&color=000" />
-  <img src="https://img.shields.io/badge/Backend-Prisma-informational?style=flat&logo=prisma&color=2D3748" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&color=336791" />
-  <img src="https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=firebase&color=FFCA28" />
-  <img src="https://img.shields.io/badge/DB-Supabase-informational?style=flat&logo=supabase&color=3ECF8E" />
-  <img src="https://img.shields.io/badge/Platform-Stream_Chat-informational?style=flat&logo=stream&color=06B6D4" />
-  <img src="https://img.shields.io/badge/Auth-Clerk-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjM0ZGNzVEIiB2aWV3Qm94PTAgMCAyMCAyMCI+PHBhdGggZD0iTTkgM2E2IDYgMCAwIDAgMCAxMiA2IDYgMCAwIDAgMC0xMnoiLz48L3N2Zz4=&color=3FF75D" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stream_Chat-06B6D4?style=flat&logo=stream&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-3FF75D?style=flat" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&color=2496ed" />
-  <img src="https://img.shields.io/badge/Infra-GitHub-informational?style=flat&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&color=007ACC" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032" />
-  <img src="https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&color=F37626" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+<p align="center" style="margin-bottom:0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="170" />
+<p align="center" style="margin-top:-16px; margin-bottom:0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="140" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="170" />
+<p align="center" style="margin-top:-16px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="140" />
 </p>
 
 ---
 
 <!--
-⭐️ Fun fact: You can customize these stats and badges further by adjusting the URLs, themes, and parameters!
+⭐️ Tip: You can further customize these badges and sections to suit your style!
 -->
