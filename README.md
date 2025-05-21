@@ -95,9 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="140"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" height="120"/>
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" alt="Summary Card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=tokyonight" alt="Most Commit Language" height="140"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=tokyonight" alt="Repos Per Language" height="140"/>
