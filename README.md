@@ -1,9 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20👋,%20I'm%20Filippo%20De%20Silva!;Full%20Stack%20Developer%20%F0%9F%9A%80;Building%20Modern%20Web%20Apps%20%F0%9F%9A%80;Automation%20and%20Mobile%20Enthusiast%20%F0%9F%92%BB&center=true&width=700&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20👋,%20I'm%20Filippo%20De%20Silva!;Full%20Stack%20Engineer%20%F0%9F%9A%80;Building%20Modern%20Web%20Apps%20%F0%9F%9A%80;Automation%20and%20Mobile%20Enthusiast%20%F0%9F%92%BB&center=true&width=700&height=45" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>🚀 Innovator | 🛠️ Problem Solver | 👥 Team Player</b>
+  <b>Full Stack Engineer&nbsp;·&nbsp;Tech Innovator&nbsp;·&nbsp;Creative Collaborator</b>
+  <br>
+  <i>Let's build something amazing together! 🚀</i>
 </p>
 
 <p align="center">
@@ -86,8 +88,3 @@
     <img src="https://img.shields.io/badge/-Website-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
-
----
-
-<!-- Profile visitors -->
-<p align="center"><i>Let's build something amazing together! 🚀</i></p>
