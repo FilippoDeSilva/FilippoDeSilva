@@ -9,12 +9,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FilippoDeSilva?tab=followers">
-    <img src="https://img.shields.io/github/followers/FilippoDeSilva?label=Followers&logo=github&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FilippoDeSilva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="mailto:filippodev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:filippodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://filippodesilva.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://github.com/FilippoDeSilva?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/FilippoDeSilva?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -71,20 +79,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Where to Find Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://filippodesilva.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
 </p>
