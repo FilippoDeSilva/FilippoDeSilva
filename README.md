@@ -11,9 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-Experienced Full Stack Engineer focused on building high-quality, scalable web applications.  
-I turn complex ideas into elegant, user-centric digital experiences.  
-Passionate about precision, performance, and seamless collaboration.
+Experienced Full Stack Engineer focused on building high-quality, scalable web applications. I turn complex ideas into elegant, user-centric digital experiences. Passionate about precision, performance, and seamless collaboration.
 
 <br/>
 
