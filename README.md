@@ -98,6 +98,4 @@ Passionate about precision, performance, and seamless collaboration.
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/FilippoDeSilva?tab=followers" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
-  </a>
 </div>
