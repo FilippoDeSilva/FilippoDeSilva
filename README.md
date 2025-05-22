@@ -90,9 +90,7 @@ Passionate about precision, performance, and seamless collaboration.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" />
 
-</div> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
+</div> 
   <a href="https://filippodesilva.vercel.app" target="_blank" title="Website">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4/fff.svg" alt="Website" width="32" height="32" />
   </a>
