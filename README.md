@@ -9,14 +9,13 @@
 
 <br/>
 
-!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
 <div align="center">
 
-Experienced Full Stack Engineer dedicated to building high-quality, scalable web applications.<br>
-I turn complex ideas into robust, user-focused digital solutions.<br>
-Driven by precision, innovation, and a passion for great user experiences.<br>
+Experienced Full Stack Engineer dedicated to building high-quality, scalable web applications.
+I turn complex ideas into robust, user-focused digital solutions.
+Driven by precision, innovation, and a passion for great user experiences.
 Let's collaborate and take your next project to the next level.
 
 </div>
