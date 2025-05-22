@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
  Hi👋, I'm Filippo De Silva
-</h2>
+</h1>
 
 <p align="center">
   <b>Full Stack Engineer · Tech Innovator · Creative Collaborator</b><br>
