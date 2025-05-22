@@ -9,7 +9,7 @@
 
 <br/>
 
-<!-- ABOUT ME -->
+!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
 <div align="center">
