@@ -99,6 +99,6 @@ Let's collaborate and take your next project to the next level.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" width="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" />
 
 </div>
