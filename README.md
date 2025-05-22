@@ -17,7 +17,7 @@ Experienced Full Stack Engineer focused on building high-quality, scalable web a
 
 <!-- SOCIAL LINKS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/filippo-de-silva" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
