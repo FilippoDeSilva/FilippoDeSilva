@@ -11,36 +11,34 @@
 
 ## 🙋‍♂️ About Me
 
-<div align="center">
-
-Experienced Full Stack Engineer dedicated to building high-quality, scalable web applications. I turn complex ideas into robust, user-focused digital solutions. Driven by precision, innovation, and a passion for great user experiences. Let's collaborate and take your next project to the next level.
-
-</div>
+Experienced Full Stack Engineer focused on building high-quality, scalable web applications.  
+I turn complex ideas into elegant, user-centric digital experiences.  
+Passionate about precision, performance, and seamless collaboration.
 
 <br/>
 
 <!-- SOCIAL LINKS -->
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank" title="Telegram">
     <img src="https://cdn.simpleicons.org/telegram/229ED9/fff.svg" alt="Telegram" width="32" height="32" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:filippodev@gmail.com" target="_blank" title="Email">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://filippodesilva.vercel.app" target="_blank" title="Website">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4/fff.svg" alt="Website" width="32" height="32" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/FilippoDeSilva?tab=followers" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -71,7 +69,7 @@ Experienced Full Stack Engineer dedicated to building high-quality, scalable web
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Stream_Chat-06B6D4?style=flat&logo=stream&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stream_Chat-06B6D4?style=flat&logo=stream&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-3FF75D?style=flat" />
 </p>
 <p align="center">
@@ -90,11 +88,10 @@ Experienced Full Stack Engineer dedicated to building high-quality, scalable web
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="140" />&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&border_radius=12" height="140" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" />
-
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" />
 
 </div>
