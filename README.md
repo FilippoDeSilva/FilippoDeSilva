@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi👋, I'm Filippo De Silva
+  Hi👋, I'm Filippo De Silva
 </h1>
 
 <p align="center">
@@ -9,17 +9,18 @@
 
 <br/>
 
-<!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
 <div align="center" style="max-width: 600px; margin: auto; font-size: 16px; line-height: 1.6;">
-  I’m a Full Stack Engineer with a passion for building scalable web apps and intuitive user experiences. I specialize in modern JavaScript frameworks and backend systems, delivering clean, efficient, and maintainable code. Open to impactful collaborations and innovation-driven teams.
+  I’m a Full Stack Engineer with a passion for building scalable web apps and intuitive user experiences.<br>
+  I specialize in modern JavaScript frameworks and backend systems, delivering clean, efficient, and maintainable code.<br>
+  Open to impactful collaborations and innovation-driven teams.
 </div>
 
 <br/>
 
 <!-- SOCIAL LINKS -->
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
@@ -39,7 +40,7 @@
   <a href="https://github.com/FilippoDeSilva?tab=followers" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -87,14 +88,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- First row: Stats and Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="140" style="margin: 6px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&border_radius=12" height="140" style="margin: 6px;" />
-
-<!-- Second row: Profile details and top languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" style="margin: 6px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" style="margin: 6px;" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&border_radius=12" height="140" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" />
+</p>
