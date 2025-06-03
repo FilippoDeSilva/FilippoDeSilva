@@ -67,7 +67,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 ## 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
