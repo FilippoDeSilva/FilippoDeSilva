@@ -18,10 +18,9 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 - 🛠️ **Builder at heart** — automations, full-stack applications  
 - 🔐 **Security enthusiast** — blending red/blue team tactics with development workflows  
 - 💬 **Curious mind** — breaking and rebuilding to understand systems deeply  
-- 📦 Currently focused on **SOC automation**, **file vaults**, and **streamlined communications**  
-- 🌍 Based in the UAE, working with React, Next.js, Go, and CLI tools  
+- 📦 Currently focused on **automations**, **BlackRaven webapp**
 
-> 🔧 *Two things are infinite the universe and human stupidity, but I'm not sure about the universe.* - **Albert Einstein**
+> 🔧 *"Two things are infinite the universe and human stupidity, but I'm not sure about the universe."* - **Albert Einstein**
 
 ---
 
@@ -31,8 +30,8 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 |----------------|-------|
 | **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
 | **Backend**    | Node.js, Go, Python |
-| **Automation** | Bash, PowerShell |
-| **Security**   | SOC, Red Team Scripts, Secure Uploads |
+| **Automation** | Bash, Power Shell, Python|
+| **Security**   | Red/Blue Teaming |
 | **Database**   | PostgreSQL, MongoDB |
 | **Infrastructure** | Docker, Supabase, Clerk, Convex |
 | **Operating Systems** | Linux, Windows |
