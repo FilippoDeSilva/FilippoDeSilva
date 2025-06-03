@@ -2,64 +2,64 @@
   <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="55%" alt="cyberpunk-hacker" />
 </p>
 
-<h1 align="center">Filip | 🛡️ Security-Minded Developer</h1>
-<h3 align="center">Next.js Engineer • SOC Automation Fan • Red/Blue Team Hybrid</h3>
+<h1 align="center">Filip | 👨‍💻 I Build Stuff & Break It Securely</h1>
+<h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,python,bash,go,c,linux,powershell,github,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,python,go,bash,powershell,linux,c,docker,git,github" alt="Skills" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hey — I’m **Filip**, a developer who blends frontend engineering with deep cybersecurity interests. I love creating secure systems, building developer tools, and automating the boring stuff.
+Hi! I’m **Filip** — a developer who loves building tools, automating workflows, and integrating security in everything I touch.
 
-- 🔐 Passionate about **SOC**, **blue teaming**, and **offensive security**
-- 💻 Building full-stack apps using **Next.js + TypeScript**
-- ⚙️ Automating recon, monitoring, and pentesting workflows
-- 🧬 Exploring **malware behavior**, **red team tooling**, and **API security**
-- 🎮 Also into gaming, video editing, and systems optimization
+- 🛠️ **I love building things** — dashboards, automations, full-stack tools  
+- 🔐 **Security enthusiast** — blending red/blue team tactics with dev workflows  
+- 💬 **I enjoy breaking and rebuilding stuff** to learn how it works  
+- 📦 Currently focused on **SOC automation**, **file vaults**, and **streamlined chats**  
+- 🌍 Based in the UAE, tinkering with React, Next.js, Go, and CLI tools
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-| Category       | Tools & Skills |
-|----------------|----------------|
+| Category       | Tools |
+|----------------|-------|
 | **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend**    | Node.js, Go, Python, Express |
-| **Scripting**  | Bash, PowerShell |
-| **DevOps**     | Docker, Git, GitHub Actions |
-| **Cyber**      | SOC tooling, recon scripts, malware analysis |
-| **DBs**        | PostgreSQL, MongoDB |
-| **Other**      | Linux, Clerk Auth, Cloudinary, Supabase, Convex |
+| **Backend**    | Node.js, Go, Python |
+| **Automation** | Bash, PowerShell |
+| **Security**   | SOC, Red Team Scripts, Secure Uploads |
+| **Database**   | PostgreSQL, MongoDB |
+| **Infra**      | Docker, Supabase, Clerk, Convex |
+| **OS**         | Linux, Windows |
 
 ---
 
-## 🚀 Projects I’ve Built
+## 🧰 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎓 [**ClassUnity Dashboard**](https://github.com/your/classunity) | Full-featured school management system with chat, events, roles, uploads, and SOC-focused access control | Next.js, TypeScript, Clerk, Supabase, PostgreSQL |
-| 🧩 [**StreamChat Integration**](https://github.com/your/streamchat-integration) | Custom secure chat system with user role segmentation (student, teacher, admin) | Stream Chat, Clerk, React |
-| 📥 [**Secure File Vault**](https://github.com/your/secure-deadman) | Dead Man’s Switch mechanism to release encrypted files via Telegram or email | Go, Supabase, PostgreSQL |
-| 🧠 [**Recon Automator**](https://github.com/your/recon-automator) | Scripted recon toolkit for domain enumeration, API probing, and subdomain bruteforce | Python, Bash |
-| ⚙️ [**Whois Lookup Tool**](https://github.com/AmanuelCh/whois-domain-lookup) | Simple WHOIS domain info extractor | Next.js, API |
-| 📊 [**Git Bit**](https://github.com/AmanuelCh/git-bit) | Quick GitHub repo stat grabber | React, TypeScript |
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎓 [**ClassUnity Dashboard**](https://github.com/your/classunity) | School management dashboard with secure role-based access, chat, and event features | Next.js, Clerk, Supabase |
+| 📥 [**Dead Man’s Switch Vault**](https://github.com/your/deadman-switch) | Secure file drop that releases on inactivity — supports Telegram/email delivery | Go, Supabase, PostgreSQL |
+| 🔒 [**Secure File Uploader**](https://github.com/your/secure-uploader) | Clerk-authenticated upload service with Cloudinary | Next.js, Clerk, Cloudinary |
+| 📊 [**Git Bit**](https://github.com/AmanuelCh/git-bit) | Get byte-sized GitHub repo insights instantly | React, TypeScript |
+| 🌐 [**Whois Domain Lookup**](https://github.com/AmanuelCh/whois-domain-lookup) | Whois data viewer built in Next.js | Next.js, API |
+| 🧠 [**Recon Automator**](https://github.com/your/recon-automator) | Automates recon and enumeration with Bash/Python scripts | Bash, Python |
 
-> ⚒️ *If it doesn't exist, I build it.*
+> 🔧 *I build the tools I wish existed.*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanuelCh&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelCh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
 </p>
 
 ---
@@ -67,17 +67,13 @@ Hey — I’m **Filip**, a developer who blends frontend engineering with deep c
 ## 🌐 Where to Find Me
 
 <p align="center">
-  <a href="https://t.me/sozoFe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/amanuel_c_h"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/AmanuelCh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@amanuelchaka2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+  <a href="https://t.me/Lt_Col_Sam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  
+<a href="https://github.com/FilippoDeSilva "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p align="center">
-  📬 Or DM me on <a href="https://t.me/Mi_Ra_Ch">my personal Telegram</a> — I post casually about tools and security stuff.
+  <a href="https:// Filippodesilva.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-> _"Better to fail chasing something extraordinary than to succeed at something ordinary."_  
-> — Filip
+> "_Nothing easy is worth doing!!_" — **Filip**
