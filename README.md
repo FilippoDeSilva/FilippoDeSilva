@@ -13,13 +13,15 @@
 
 ## 🧠 About Me
 
-Hi! I’m **Filip** — a developer passionate about building tools, automating workflows, and integrating security into every project.
+Hi! I’m **Filippo** — a developer passionate about building tools, automating workflows, and integrating security into every project.
 
-- 🛠️ **Builder at heart** — dashboards, automations, full-stack applications  
+- 🛠️ **Builder at heart** — automations, full-stack applications  
 - 🔐 **Security enthusiast** — blending red/blue team tactics with development workflows  
 - 💬 **Curious mind** — breaking and rebuilding to understand systems deeply  
 - 📦 Currently focused on **SOC automation**, **file vaults**, and **streamlined communications**  
 - 🌍 Based in the UAE, working with React, Next.js, Go, and CLI tools  
+
+> 🔧 *Two things are infinite the universe and human stupidity, but I'm not sure about the universe.* - **Albert Einstein**
 
 ---
 
