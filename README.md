@@ -1,93 +1,83 @@
-<h1 align="center">
-  👋 Hi, I'm Filippo De Silva
-</h1>
-
 <p align="center">
-  <b>Full Stack Engineer · Tech Innovator · Creative Collaborator</b><br>
-  <i>Let's build something amazing together! 🚀</i>
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="55%" alt="cyberpunk-hacker" />
 </p>
 
-<br/>
-
-## 🙋‍♂️ About Me
-
-Experienced Full Stack Engineer focused on building high-quality, scalable web applications.  
-I turn complex ideas into elegant, user-centric digital experiences.  
-Passionate about precision, performance, and seamless collaboration.
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/filippo-de-silva-0982a7342" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Lt_Col_Sam?text=Hi%20Filippo,%20I%20would%20like%20to%20connect." target="_blank" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/229ED9/fff.svg" alt="Telegram" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://filippodesilva.vercel.app" target="_blank" title="Website">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4/fff.svg" alt="Website" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/FilippoDeSilva?tab=followers" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Toolbox
+<h1 align="center">Filip | 🛡️ Security-Minded Developer</h1>
+<h3 align="center">Next.js Engineer • SOC Automation Fan • Red/Blue Team Hybrid</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61dafb?style=flat&logo=react&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stream_Chat-06B6D4?style=flat&logo=stream&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-3FF75D?style=flat" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,python,bash,go,c,linux,powershell,github,git" alt="Skills" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 About Me
 
-<div align="center">
+Hey — I’m **Filip**, a developer who blends frontend engineering with deep cybersecurity interests. I love creating secure systems, building developer tools, and automating the boring stuff.
 
-<img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="140" />&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&border_radius=12" height="140" />
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=tokyonight" height="130" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="130" />
+- 🔐 Passionate about **SOC**, **blue teaming**, and **offensive security**
+- 💻 Building full-stack apps using **Next.js + TypeScript**
+- ⚙️ Automating recon, monitoring, and pentesting workflows
+- 🧬 Exploring **malware behavior**, **red team tooling**, and **API security**
+- 🎮 Also into gaming, video editing, and systems optimization
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+| Category       | Tools & Skills |
+|----------------|----------------|
+| **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend**    | Node.js, Go, Python, Express |
+| **Scripting**  | Bash, PowerShell |
+| **DevOps**     | Docker, Git, GitHub Actions |
+| **Cyber**      | SOC tooling, recon scripts, malware analysis |
+| **DBs**        | PostgreSQL, MongoDB |
+| **Other**      | Linux, Clerk Auth, Cloudinary, Supabase, Convex |
+
+---
+
+## 🚀 Projects I’ve Built
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎓 [**ClassUnity Dashboard**](https://github.com/your/classunity) | Full-featured school management system with chat, events, roles, uploads, and SOC-focused access control | Next.js, TypeScript, Clerk, Supabase, PostgreSQL |
+| 🧩 [**StreamChat Integration**](https://github.com/your/streamchat-integration) | Custom secure chat system with user role segmentation (student, teacher, admin) | Stream Chat, Clerk, React |
+| 📥 [**Secure File Vault**](https://github.com/your/secure-deadman) | Dead Man’s Switch mechanism to release encrypted files via Telegram or email | Go, Supabase, PostgreSQL |
+| 🧠 [**Recon Automator**](https://github.com/your/recon-automator) | Scripted recon toolkit for domain enumeration, API probing, and subdomain bruteforce | Python, Bash |
+| ⚙️ [**Whois Lookup Tool**](https://github.com/AmanuelCh/whois-domain-lookup) | Simple WHOIS domain info extractor | Next.js, API |
+| 📊 [**Git Bit**](https://github.com/AmanuelCh/git-bit) | Quick GitHub repo stat grabber | React, TypeScript |
+
+> ⚒️ *If it doesn't exist, I build it.*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanuelCh&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelCh&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Where to Find Me
+
+<p align="center">
+  <a href="https://t.me/sozoFe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://x.com/amanuel_c_h"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/AmanuelCh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@amanuelchaka2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  📬 Or DM me on <a href="https://t.me/Mi_Ra_Ch">my personal Telegram</a> — I post casually about tools and security stuff.
+</p>
+
+---
+
+> _"Better to fail chasing something extraordinary than to succeed at something ordinary."_  
+> — Filip
