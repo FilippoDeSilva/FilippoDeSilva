@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="55%" alt="cyberpunk-hacker" />
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="55%" alt="cyber-terminal" />
 </p>
 
 <h1 align="center">Filip | 👨‍💻 I Build Stuff & Break It Securely</h1>
@@ -41,12 +41,12 @@ Hi! I’m **Filip** — a developer who loves building tools, automating workflo
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [**ClassUnity Dashboard**](https://github.com/your/classunity) | School management dashboard with secure role-based access, chat, and event features | Next.js, Clerk, Supabase |
-| 📥 [**Dead Man’s Switch Vault**](https://github.com/your/deadman-switch) | Secure file drop that releases on inactivity — supports Telegram/email delivery | Go, Supabase, PostgreSQL |
-| 🔒 [**Secure File Uploader**](https://github.com/your/secure-uploader) | Clerk-authenticated upload service with Cloudinary | Next.js, Clerk, Cloudinary |
+| 🎓 [**ClassUnity Dashboard**](https://github.com/FilippoDeSilva/classunity) | School management dashboard with secure role-based access, chat, and event features | Next.js, Clerk, Supabase |
+| 📥 [**Dead Man’s Switch Vault**](https://github.com/FilippoDeSilva/deadman-switch) | Secure file drop that releases on inactivity — supports Telegram/email delivery | Go, Supabase, PostgreSQL |
+| 🔒 [**Secure File Uploader**](https://github.com/FilippoDeSilva/secure-uploader) | Clerk-authenticated upload service with Cloudinary | Next.js, Clerk, Cloudinary |
 | 📊 [**Git Bit**](https://github.com/AmanuelCh/git-bit) | Get byte-sized GitHub repo insights instantly | React, TypeScript |
 | 🌐 [**Whois Domain Lookup**](https://github.com/AmanuelCh/whois-domain-lookup) | Whois data viewer built in Next.js | Next.js, API |
-| 🧠 [**Recon Automator**](https://github.com/your/recon-automator) | Automates recon and enumeration with Bash/Python scripts | Bash, Python |
+| 🧠 [**Recon Automator**](https://github.com/FilippoDeSilva/recon-automator) | Automates recon and enumeration with Bash/Python scripts | Bash, Python |
 
 > 🔧 *I build the tools I wish existed.*
 
@@ -68,10 +68,8 @@ Hi! I’m **Filip** — a developer who loves building tools, automating workflo
 
 <p align="center">
   <a href="https://t.me/Lt_Col_Sam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  
-<a href="https://github.com/FilippoDeSilva "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-  <a href="https:// Filippodesilva.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/FilippoDeSilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://filippodesilva.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
