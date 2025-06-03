@@ -20,7 +20,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 - 💬 **Curious mind** — breaking and rebuilding to understand systems deeply  
 - 📦 Currently focused on **automations** and the **BlackRaven webapp**
 
-> 🔧 *"Two things are infinite: the universe and human stupidity. But I'm not sure about the universe."* – **Albert Einstein**
+> *"Two things are infinite: the universe and human stupidity. But I'm not sure about the universe."* – **Albert Einstein**
 
 ---
 
@@ -75,4 +75,4 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-> _Nothing easy is worth doing!!_
+>⏰ _Nothing easy is worth doing!!_
