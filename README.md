@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="55%" alt="cyber-terminal" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60%" alt="hacker-terminal" />
 </p>
 
 <h1 align="center">Filippo | 👨‍💻 I Build Stuff & Break It Securely</h1>
@@ -18,9 +18,9 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 - 🛠️ **Builder at heart** — automations, full-stack applications  
 - 🔐 **Security enthusiast** — blending red/blue team tactics with development workflows  
 - 💬 **Curious mind** — breaking and rebuilding to understand systems deeply  
-- 📦 Currently focused on **automations**, **BlackRaven webapp**
+- 📦 Currently focused on **automations** and the **BlackRaven webapp**
 
-> 🔧 *"Two things are infinite the universe and human stupidity, but I'm not sure about the universe."* - **Albert Einstein**
+> 🔧 *"Two things are infinite: the universe and human stupidity. But I'm not sure about the universe."* – **Albert Einstein**
 
 ---
 
@@ -30,7 +30,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 |----------------|-------|
 | **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
 | **Backend**    | Node.js, Go, Python |
-| **Automation** | Bash, Power Shell, Python|
+| **Automation** | Bash, PowerShell, Python |
 | **Security**   | Red/Blue Teaming |
 | **Database**   | PostgreSQL, MongoDB |
 | **Infrastructure** | Docker, Supabase, Clerk, Convex |
@@ -42,7 +42,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [**ClassUnity Dashboard**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, Type Script, Clerk, Supabase |
+| 🎓 [**ClassUnity Dashboard**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
 | 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
 | 🌐 [**Portfolio Website**](https://github.com/FilippoDeSilva/portfolio-website) | Personal portfolio showcasing projects and skills | Next.js, Tailwind CSS |
@@ -69,7 +69,8 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 <p align="center">
   <a href="https://t.me/Lt_Col_Sam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/FilippoDeSilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://filippodesilva.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/filippodesilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://filippodesilva.vercel.app"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
 
 ---
