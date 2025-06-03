@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60%" alt="hacker-terminal" />
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="60%" alt="coding-hacking-animated" />
 </p>
 
 <h1 align="center">Filippo | 👨‍💻 I Build Stuff & Break It Securely</h1>
@@ -60,6 +60,14 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 GitHub Snake Animation
+
+<p align="center">
+  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
