@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="55%" alt="cyber-terminal" />
 </p>
 
-<h1 align="center">Filip | 👨‍💻 I Build Stuff & Break It Securely</h1>
+<h1 align="center">Filippo | 👨‍💻 I Build Stuff & Break It Securely</h1>
 <h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
