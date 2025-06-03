@@ -19,7 +19,7 @@ Hi! I’m **Filip** — a developer who loves building tools, automating workflo
 - 🔐 **Security enthusiast** — blending red/blue team tactics with dev workflows  
 - 💬 **I enjoy breaking and rebuilding stuff** to learn how it works  
 - 📦 Currently focused on **SOC automation**, **file vaults**, and **streamlined chats**  
-- 🌍 Based in the UAE, tinkering with React, Next.js, Go, and CLI tools
+- 🌍 Based in the UAE, tinkering with React, Next.js, Go, and CLI tools  
 
 ---
 
@@ -41,12 +41,12 @@ Hi! I’m **Filip** — a developer who loves building tools, automating workflo
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [**ClassUnity Dashboard**](https://github.com/FilippoDeSilva/classunity) | School management dashboard with secure role-based access, chat, and event features | Next.js, Clerk, Supabase |
-| 📥 [**Dead Man’s Switch Vault**](https://github.com/FilippoDeSilva/deadman-switch) | Secure file drop that releases on inactivity — supports Telegram/email delivery | Go, Supabase, PostgreSQL |
-| 🔒 [**Secure File Uploader**](https://github.com/FilippoDeSilva/secure-uploader) | Clerk-authenticated upload service with Cloudinary | Next.js, Clerk, Cloudinary |
+| 🎓 [**ClassUnity Dashboard**](https://github.com/your/classunity) | School management dashboard with secure role-based access, chat, and event features | Next.js, Clerk, Supabase |
+| 📥 [**Dead Man’s Switch Vault**](https://github.com/your/deadman-switch) | Secure file drop that releases on inactivity — supports Telegram/email delivery | Go, Supabase, PostgreSQL |
+| 🔒 [**Secure File Uploader**](https://github.com/your/secure-uploader) | Clerk-authenticated upload service with Cloudinary | Next.js, Clerk, Cloudinary |
 | 📊 [**Git Bit**](https://github.com/AmanuelCh/git-bit) | Get byte-sized GitHub repo insights instantly | React, TypeScript |
 | 🌐 [**Whois Domain Lookup**](https://github.com/AmanuelCh/whois-domain-lookup) | Whois data viewer built in Next.js | Next.js, API |
-| 🧠 [**Recon Automator**](https://github.com/FilippoDeSilva/recon-automator) | Automates recon and enumeration with Bash/Python scripts | Bash, Python |
+| 🧠 [**Recon Automator**](https://github.com/your/recon-automator) | Automates recon and enumeration with Bash/Python scripts | Bash, Python |
 
 > 🔧 *I build the tools I wish existed.*
 
