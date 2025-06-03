@@ -64,10 +64,10 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-## 🐍 GitHub Snake Animation
+### 🐍 GitHub Contribution 
 
 <p align="center">
-  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
