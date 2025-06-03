@@ -62,8 +62,6 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
 </p>
 
----
-
 ### 🐍 GitHub Contribution 
 
 <p align="center">
