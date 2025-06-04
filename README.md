@@ -79,11 +79,11 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/filippo-de-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://filippodesilva.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=world&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-blue?style=for-the-badge" alt="Portfolio Badge"/>
+</a>
 </p>
 
 ---
