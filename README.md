@@ -45,7 +45,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 | 🎓 [**ClassUnity Dashboard**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
 | 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
-| 🌐 [**Portfolio Website**](https://github.com/FilippoDeSilva/portfolio-website) | Personal portfolio showcasing projects and skills | Next.js, Tailwind CSS |
+
 | ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files for development environment setup | Shell, Python |
 
 > 🔧 *I build the tools I wish existed.*
