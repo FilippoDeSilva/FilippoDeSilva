@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="coding-hacking-animated" />
 </p>
 
-<h1 align="center">👏HI, I'm Filippo De Silva</h1>
+<h1 align="center">👋HI, I'm Filippo De Silva</h1>
 <h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
