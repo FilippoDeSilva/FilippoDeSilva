@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="60%" alt="coding-hacking-animated" />
+  <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60%" alt="coding-hacking-animated" />
 </p>
 
 <h1 align="center">Filippo | 👨‍💻 I Build Stuff & Break It Securely</h1>
