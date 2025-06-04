@@ -69,7 +69,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-## 🌐 Where to Find Me
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://t.me/Lt_Col_Sam">
@@ -82,7 +82,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://filippodesilva.vercel.app">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=world&logoColor=white" />
   </a>
 </p>
 
