@@ -81,9 +81,9 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
   </a> 
-  <a href="https://filippodesilva.vercel.app"> 
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website Badge" /> 
-  </a>
+   <a href="https://filippodesilva.vercel.app">
+     <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+   </a>
 </p>
 
 ---
