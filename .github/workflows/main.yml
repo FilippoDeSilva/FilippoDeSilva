@@ -1,35 +1,35 @@
 name: Generate GitHub Snake 🐍
 
-permissions:        # 👈 give the token what both actions need
+permissions:
   contents: write
   pages: write
 
 on:
-  workflow_dispatch:        # run it by hand the first time
   schedule:
-    - cron: "0 0 * * *"     # ...then daily at 00:00 UTC
+    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allow manual triggering
 
 jobs:
-  snake:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Check out your repo (required by snk)
-      - uses: actions/checkout@v4
+      # Step 1: Checkout the repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # 2. Generate the two SVGs
-      - name: Generate snake files
+      # Step 2: Generate the snake animation SVGs
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Push them to branch **output**
-      - name: Publish to output branch
+      # Step 3: Push the generated SVG to the `output` branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
