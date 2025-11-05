@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Filippo De Silva</h1>
-<h3 align="center">Next.js Developer • Security Enthusiast • UI/UX-Driven Toolmaker</h3>
+<h3 align="center">Next.js Developer • Security Enthusiast • UI/UX-driven Toolmaker</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,python,go,bash,powershell,linux,docker,git,github" alt="Skills" />
@@ -41,7 +41,7 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 ## 🧰 Featured Projects
 
 | Project | Description | Tech |
-|----------|-------------|------|
+|---------|-------------|------|
 | 🎓 [**Class Unity SMS**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, real-time chat, and events | Next.js · TypeScript · Supabase · Clerk |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free-account usage detection in Cursor AI | Python |
 | 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password testing tool | Python |
@@ -51,16 +51,15 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Classic metrics overview -->
-  <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&base.header=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&followup=1&introduction=1&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&introduction.title=true&isocalendar.duration=half-year&config.timezone=Europe%2FRome&config.animated=true&config.theme=classic&config.background=ffffff&config.color=0e75b6" alt="Metrics" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=react&bg_color=ffffff&title_color=0E75B6&text_color=333333&icon_color=0E75B6" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=react&bg_color=ffffff&title_color=0E75B6&text_color=333333" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <!-- Compact contributions chart -->
-  <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&repositories=100&lines=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.animated=true&config.theme=classic&config.color=0e75b6" alt="GitHub Activity Metrics" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="85%" />
 </p>
 
 ---
