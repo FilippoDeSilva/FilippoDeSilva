@@ -53,22 +53,24 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-           alt="GitHub Stats"
-           width="400"
-           height="220" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
-           alt="Top Languages"
-           width="400"
-           height="220" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+             alt="GitHub Stats"
+             width="400"
+             height="220" />
+      </td>
+      <td style="border: none; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
+             alt="Top Languages"
+             width="400"
+             height="220" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <!-- Activity graph: pure black background -->
