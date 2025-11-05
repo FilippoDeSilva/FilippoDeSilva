@@ -51,19 +51,17 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/FilippoDeSilva">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
@@ -72,7 +70,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 <p align="center">
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -81,6 +79,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+
 
 ### GitHub Contributions
 
