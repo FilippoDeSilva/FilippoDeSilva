@@ -51,25 +51,33 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Insights</h2>
+<p align="center">
+  <a href="https://github.com/FilippoDeSilva">
+    <!-- GitHub README Stats: Reliable, with custom domain fallback -->
+    <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true" alt="FilippoDeSilva's GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/FilippoDeSilva">
+    <!-- Top Languages: Official mirror and mobile-friendly, auto-fallback -->
+    <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-</div>
+<p align="center">
+  <!-- GitHub Streak: Actively maintained mirror, responsive and works on mobile -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<br/>
+<!-- Optionally, you can add a trophy section, but be aware trophy APIs can be unstable. For maximum uptime, consider omitting or moving it below the main stats. -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages" style="max-width: 100%; height: auto;" />
-</div>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=flat&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophy" style="max-width: 100%; height: auto;" />
-</div>
 
 ### GitHub Contributions
 
