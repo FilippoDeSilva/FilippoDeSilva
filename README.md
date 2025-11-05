@@ -54,11 +54,15 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FilippoDeSilva&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ### GitHub Contributions
