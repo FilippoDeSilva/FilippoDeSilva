@@ -53,11 +53,11 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" width="48%" />
-</p>
+
+### GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=FilippoDeSilva&theme=dark&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=58a6ff" width="48%" />
+  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
