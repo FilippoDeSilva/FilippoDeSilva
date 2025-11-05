@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="coding-hacking-animated" />
 </p>
 
-<h1 align="center">👋HI, I'm Filippo De Silva</h1>
+<h1 align="center">👋 Hi, I'm Filippo De Silva</h1>
 <h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
@@ -42,7 +42,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [**Class Unity Schhol Management System (SMS)**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
+| 🎓 [**Class Unity School Management System (SMS)**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
 | 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
 | ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files for development environment setup | Shell, Python |
@@ -51,21 +51,22 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=FilippoDeSilva&theme=dark&background=000000&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=58a6ff" alt="GitHub Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=dark&background=000000&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=58a6ff"
-       alt="GitHub Streak Stats" width="420" />
+  <!-- Contribution Snake -->
+  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="90%" />
 </p>
 
-### GitHub Contributions
-
 <p align="center">
-  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <!-- Metrics by Lowlighter -->
+  <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&languages=1&config.timezone=Europe%2FRome" alt="Metrics" width="90%" />
 </p>
 
 ---
@@ -82,11 +83,11 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
   </a> 
-   <a href="https://filippodesilva.vercel.app">
-     <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-   </a>
+  <a href="https://filippodesilva.vercel.app">
+    <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
 </p>
 
 ---
 
->⏰ _Nothing easy is worth doing!!_
+> ⏰ _Nothing easy is worth doing!_
