@@ -1,86 +1,89 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="coding-hacking-animated" />
+  <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="coding animation" />
 </p>
 
-<h1 align="center">👋 HI, I’m Filippo De Silva</h1>
-<h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
+<h1 align="center">👋 Hi, I'm Filippo De Silva</h1>
+<h3 align="center">Next.js Developer • Security Enthusiast • UI/UX-Driven Toolmaker</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,python,go,bash,powershell,linux,c,docker,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,python,go,bash,powershell,linux,docker,git,github" alt="Skills" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I’m **Filippo** — a developer passionate about building tools, automating workflows, and integrating security into every project.
+I’m **Filippo**, a developer passionate about **building reliable tools**, **automating workflows**, and **crafting seamless user experiences**.
 
-- 🛠️ **Builder at heart** — automations, full-stack applications  
-- 🔐 **Security enthusiast** — blending red/blue team tactics with development workflows  
-- 💬 **Curious mind** — breaking & rebuilding to understand systems deeply  
-- 📦 Currently focused on **automations** and the **BlackRaven webapp**
+- 🧩 **Builder at heart** — automations, full-stack apps, creative dev tooling  
+- 🔐 **Security-minded** — integrating red/blue team strategies into dev workflows  
+- 🎨 **UX-driven creator** — focusing on elegant, intuitive digital experiences  
+- 📰 I write about **development, design, and system automation** on my [**blog**](https://filippodesilva.vercel.app)
 
-> *"Two things are infinite: the universe and human stupidity. But I'm not sure about the universe."* – **Albert Einstein**
+> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Category         | Tools                                                                 |
-|------------------|-----------------------------------------------------------------------|
-| **Frontend**     | Next.js · React · TypeScript · Tailwind CSS                           |
-| **Backend**      | Node.js · Go · Python                                                 |
-| **Automation**   | Bash · PowerShell · Python                                            |
-| **Security**     | Red/Blue Teaming                                                       |
-| **Database**     | PostgreSQL · MongoDB                                                  |
-| **Infrastructure** | Docker · Supabase · Clerk · Convex                                 |
-| **Operating Systems** | Linux · Windows                                                 |
+| Category | Tools |
+|-----------|-------|
+| **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · Go · Python |
+| **Automation** | Bash · PowerShell · Python |
+| **Security** | Red / Blue Teaming |
+| **Database** | PostgreSQL · MongoDB |
+| **Infrastructure** | Docker · Supabase · Clerk · Convex |
+| **Operating Systems** | Linux · Windows |
 
 ---
 
 ## 🧰 Featured Projects
 
-| Project | Description | Tech                              |
-|---------|-------------|-----------------------------------|
-| 🎓 [**Class Unity School Management System (SMS)**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and events | Next.js · TypeScript · Clerk · Supabase |
-| 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free-account usage-limits by generating random UUIDs | Python |
-| 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool for testing | Python |
-| ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files to bootstrap my development environment | Shell · Python |
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎓 [**Class Unity SMS**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, real-time chat, and events | Next.js · TypeScript · Supabase · Clerk |
+| 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free-account usage detection in Cursor AI | Python |
+| 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password testing tool | Python |
+| ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Custom configurations for a minimal, productive dev setup | Shell · Python |
 
-> 🔧 *I build the tools I wish existed.*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Using Metrics shared instance -->
-  <img src="https://metrics.lecoq.io/user?username=FilippoDeSilva&template=classic&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/user?username=FilippoDeSilva&template=classic&theme=tokyonight&plugins=languages,activity" alt="Top Languages & Activity" />
-</p>
+> 🛠 *I build the tools I wish existed.*
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Metrics
+
+<p align="center">
+  <!-- Classic metrics overview -->
+  <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&base.header=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&followup=1&introduction=1&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&introduction.title=true&isocalendar.duration=half-year&config.timezone=Europe%2FRome&config.animated=true&config.theme=classic&config.background=ffffff&config.color=0e75b6" alt="Metrics" width="85%" />
+</p>
+
+<p align="center">
+  <!-- Compact contributions chart -->
+  <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&repositories=100&lines=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.animated=true&config.theme=classic&config.color=0e75b6" alt="GitHub Activity Metrics" width="85%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://t.me/Lt_Col_Sam">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0E75B6?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
-  </a> 
+  <a href="https://www.linkedin.com/in/filippo-de-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://filippodesilva.vercel.app">
-    <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-0E75B6?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> ⏰ _Nothing easy is worth doing!!_
+<p align="center">
+  <sub>✨ Minimalist • Reliable • Creative — inspired by <a href="https://filippodesilva.vercel.app">filippodesilva.vercel.app</a></sub>
+</p>
