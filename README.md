@@ -54,10 +54,16 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Summary stats: stays same for all themes -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=react&bg_color=ffffff&title_color=0E75B6&text_color=333333&icon_color=0E75B6" alt="GitHub Stats" width="45%" />
+  <!-- Summary stats card with theme adaptation -->
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0E75B6&hide_border=true" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=react&bg_color=ffffff&title_color=0E75B6&text_color=333333&icon_color=0E75B6&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=react&bg_color=ffffff&title_color=0E75B6&text_color=333333&icon_color=0E75B6&hide_border=true" alt="GitHub Stats" width="45%" />
+  </picture>
 
-  <!-- Top languages card: two versions for light/dark -->
+  <!-- Top languages card with theme adaptation -->
   <picture>
     <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&langs_count=6" />
@@ -68,9 +74,11 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 </p>
 
 <p align="center">
-  <!-- Activity graph: same trick for dark/light -->
+  <!-- Activity graph with theme adaptation -->
   <picture>
+    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=react-dark&hide_border=true" />
+    <!-- Light mode -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=react&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=react&hide_border=true" alt="GitHub Activity Graph" width="85%" />
   </picture>
