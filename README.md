@@ -58,7 +58,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=dark&hide_border=true&background=000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" width="420" />
 </p>
 
 ### GitHub Contributions
