@@ -70,12 +70,6 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 <p align="center">
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FilippoDeSilva">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
