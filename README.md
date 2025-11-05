@@ -53,13 +53,21 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Summary stats card: pure black background -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="45%" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats Card -->
+  <div style="flex: 1 1 400px; max-width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+         alt="GitHub Stats"
+         style="width: 100%; height: 220px; object-fit: contain;" />
+  </div>
 
-  <!-- Top languages card: pure black background -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="45%" />
-</p>
+  <!-- Top Languages Card -->
+  <div style="flex: 1 1 400px; max-width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
+         alt="Top Languages"
+         style="width: 100%; height: 220px; object-fit: contain;" />
+  </div>
+</div>
 
 <p align="center">
   <!-- Activity graph: pure black background -->
