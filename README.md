@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="coding-hacking-animated" />
 </p>
 
-<h1 align="center">👋HI, I'm Filippo De Silva</h1>
+<h1 align="center">👋 HI, I’m Filippo De Silva</h1>
 <h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 - 🛠️ **Builder at heart** — automations, full-stack applications  
 - 🔐 **Security enthusiast** — blending red/blue team tactics with development workflows  
-- 💬 **Curious mind** — breaking and rebuilding to understand systems deeply  
+- 💬 **Curious mind** — breaking & rebuilding to understand systems deeply  
 - 📦 Currently focused on **automations** and the **BlackRaven webapp**
 
 > *"Two things are infinite: the universe and human stupidity. But I'm not sure about the universe."* – **Albert Einstein**
@@ -26,26 +26,26 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ## ⚙️ Tech Stack
 
-| Category       | Tools |
-|----------------|-------|
-| **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend**    | Node.js, Go, Python |
-| **Automation** | Bash, PowerShell, Python |
-| **Security**   | Red/Blue Teaming |
-| **Database**   | PostgreSQL, MongoDB |
-| **Infrastructure** | Docker, Supabase, Clerk, Convex |
-| **Operating Systems** | Linux, Windows |
+| Category         | Tools                                                                 |
+|------------------|-----------------------------------------------------------------------|
+| **Frontend**     | Next.js · React · TypeScript · Tailwind CSS                           |
+| **Backend**      | Node.js · Go · Python                                                 |
+| **Automation**   | Bash · PowerShell · Python                                            |
+| **Security**     | Red/Blue Teaming                                                       |
+| **Database**     | PostgreSQL · MongoDB                                                  |
+| **Infrastructure** | Docker · Supabase · Clerk · Convex                                 |
+| **Operating Systems** | Linux · Windows                                                 |
 
 ---
 
 ## 🧰 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎓 [**Class Unity Schhol Management System (SMS)**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
-| 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
-| 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
-| ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files for development environment setup | Shell, Python |
+| Project | Description | Tech                              |
+|---------|-------------|-----------------------------------|
+| 🎓 [**Class Unity School Management System (SMS)**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and events | Next.js · TypeScript · Clerk · Supabase |
+| 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free-account usage-limits by generating random UUIDs | Python |
+| 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool for testing | Python |
+| ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files to bootstrap my development environment | Shell · Python |
 
 > 🔧 *I build the tools I wish existed.*
 
@@ -54,36 +54,17 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-  </a>
+  <!-- Using Metrics shared instance -->
+  <img src="https://metrics.lecoq.io/user?username=FilippoDeSilva&template=classic&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
-
-### GitHub Contributions
-
-<p align="center">
-  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://metrics.lecoq.io/user?username=FilippoDeSilva&template=classic&theme=tokyonight&plugins=languages,activity" alt="Top Languages & Activity" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://t.me/Lt_Col_Sam">
@@ -95,11 +76,11 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
   </a> 
-   <a href="https://filippodesilva.vercel.app">
-     <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-   </a>
+  <a href="https://filippodesilva.vercel.app">
+    <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
 </p>
 
 ---
 
->⏰ _Nothing easy is worth doing!!_
+> ⏰ _Nothing easy is worth doing!!_
