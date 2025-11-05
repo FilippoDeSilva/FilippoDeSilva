@@ -53,18 +53,14 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-       alt="GitHub Stats"
-       width="45%"
-       style="height: 200px; object-fit: cover;" />
+## 📊 GitHub Stats
 
-  <!-- Top Languages Card with matched height -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
-       alt="Top Languages"
-       width="45%"
-       style="height: 200px; object-fit: cover;" />
+<p align="center">
+  <!-- Summary stats card: pure black background -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="45%" />
+
+  <!-- Top languages card: pure black background -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
@@ -92,7 +88,3 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 </p>
 
 ---
-
-<p align="center">
-  <sub>✨ Dark-themed • Minimalist • Professional — inspired by <a href="https://filippodesilva.vercel.app">filippodesilva.vercel.app</a></sub>
-</p>
