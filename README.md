@@ -53,27 +53,34 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ## 📊 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="FilippoDeSilva's GitHub stats" width="46%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1" alt="GitHub Trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FilippoDeSilva">
+    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=FilippoDeSilva&theme=tokyonight&hide_border=true&dates=DDDD" alt="GitHub Streak" width="60%" />
+  <a href="https://github.com/FilippoDeSilva">
+    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/FilippoDeSilva?tab=achievements">
-    <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&base.header=false&base.community=true&base.repositories=0&base.metadata=false&languages=1&isocalendar=1&activity=1&achievements=1&notable=1&lines=1&theme=tokyonight" alt="Advanced Metrics by lecoq.io" width="100%" />
+  <a href="https://github.com/FilippoDeSilva">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
-
 
 ### GitHub Contributions
 
