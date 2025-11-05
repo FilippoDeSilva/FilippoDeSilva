@@ -42,7 +42,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [**Class Unity School Management System (SMS)**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
+| 🎓 [**Class Unity SMS**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
 | 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
 | ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files for development environment setup | Shell, Python |
@@ -51,21 +51,9 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats (Lowlighter)
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=FilippoDeSilva&theme=dark&background=000000&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=58a6ff" alt="GitHub Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Contribution Snake -->
-  <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="90%" />
-</p>
-
-<p align="center">
-  <!-- Metrics by Lowlighter -->
   <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&languages=1&config.timezone=Europe%2FRome" alt="Metrics" width="90%" />
 </p>
 
