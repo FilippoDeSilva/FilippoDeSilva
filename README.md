@@ -47,14 +47,17 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 | 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
 | ⚙️ [**Dotfiles**](https://github.com/FilippoDeSilva/dotfiles) | Configuration files for development environment setup | Shell, Python |
 
-> 🔧 *I build the tools I wish existed.*
-
 ---
 
-## 📊 GitHub Stats (Lowlighter)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/FilippoDeSilva?template=classic&languages=1&config.timezone=Europe%2FRome" alt="Metrics" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=FilippoDeSilva&theme=dark&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=58a6ff" width="48%" />
 </p>
 
 ---
