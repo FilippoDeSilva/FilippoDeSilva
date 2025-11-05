@@ -52,27 +52,40 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 ---
 ## 📈 GitHub Stats
 
-<div align="center" style="
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 20px;
-  max-width: 900px;
-  margin: auto;
-">
+<style>
+  .github-stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 900px;
+    margin: auto;
+  }
 
+  .github-card {
+    flex: none;
+    width: 420px;
+  }
+
+  @media (max-width: 900px) {
+    .github-card {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="github-stats-container">
   <!-- Summary / main stats card -->
-  <div style="flex: none; width: 420px;">
+  <div class="github-card">
     <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
          alt="GitHub Stats" width="100%" />
   </div>
 
   <!-- Top Languages card -->
-  <div style="flex: none; width: 420px;">
+  <div class="github-card">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
          alt="Top Languages" width="100%" />
   </div>
-
 </div>
 
 <p align="center">
