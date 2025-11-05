@@ -53,28 +53,22 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ## 📈 GitHub Stats
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Insights</h2>
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophy" style="max-width: 100%; height: auto;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FilippoDeSilva&theme=flat&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophy" style="max-width: 100%; height: auto;" />
 </div>
 
 ### GitHub Contributions
