@@ -53,7 +53,7 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 
 ## 📊 GitHub Stats
 
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
