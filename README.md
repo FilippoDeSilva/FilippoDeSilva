@@ -53,20 +53,16 @@ I’m **Filippo**, a developer passionate about **building reliable tools**, **a
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
-  <div style="flex: 1 1 400px; max-width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-         alt="GitHub Stats"
-         style="width: 100%; height: 220px; object-fit: contain;" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+       alt="GitHub Stats"
+       style="width: 400px; height: 220px; object-fit: contain;" />
 
   <!-- Top Languages Card -->
-  <div style="flex: 1 1 400px; max-width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
-         alt="Top Languages"
-         style="width: 100%; height: 220px; object-fit: contain;" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
+       alt="Top Languages"
+       style="width: 400px; height: 220px; object-fit: contain;" />
 </div>
 
 <p align="center">
