@@ -50,26 +50,25 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 > 🔧 *I build the tools I wish existed.*
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center" style="
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 20px;
   max-width: 900px;
   margin: auto;
 ">
 
   <!-- Summary / main stats card -->
-  <div style="flex: 1 1 400px; min-width: 300px; max-width: 420px;">
+  <div style="flex: none; width: 420px;">
     <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
          alt="GitHub Stats" width="100%" />
   </div>
 
   <!-- Top Languages card -->
-  <div style="flex: 1 1 400px; min-width: 300px; max-width: 420px;">
+  <div style="flex: none; width: 420px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
          alt="Top Languages" width="100%" />
   </div>
@@ -79,7 +78,6 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=react-dark&hide_border=true&bg_color=000000" alt="GitHub Activity Graph" width="85%" />
 </p>
-
 
 ### GitHub Contributions
 
