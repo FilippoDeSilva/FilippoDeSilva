@@ -6,7 +6,7 @@
 <h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,python,go,bash,powershell,linux,c,docker,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,python,bash,powershell,linux,c,docker,git,github" alt="Skills" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 | Category       | Tools |
 |----------------|-------|
 | **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend**    | Node.js, Go, Python |
+| **Backend**    | Node.js, Python |
 | **Automation** | Bash, PowerShell, Python |
 | **Security**   | Red/Blue Teaming |
 | **Database**   | PostgreSQL, MongoDB |
@@ -44,8 +44,8 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 |--------|-------------|------|
 | 🎓 [**Class Unity SMS**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
-| 🔒 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
-| ⚙️ [**GoPlay**](https://github.com/FilippoDeSilva/go-play) | Movie/TV Show Streaming Website built for personal use. | Next.js, Typescript, TMDB, TailwindCSS |
+| 🔓 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
+| 🎬 [**GoPlay**](https://github.com/FilippoDeSilva/go-play) | Movie/TV Show Streaming Website built for personal use. | Next.js, Typescript, TMDB, TailwindCSS |
 
 > *"I build tools I wish existed."*
 
