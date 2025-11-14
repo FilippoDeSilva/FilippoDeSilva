@@ -80,12 +80,12 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <!-- <a href="https://github.com/FilippoDeSilva">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a> -->
-  <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
-  </a> 
   <a href="https://filippodesilva.vercel.app">
     <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
+  </a> 
 </p>
 
 ---
