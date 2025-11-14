@@ -83,9 +83,12 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <a href="https://filippodesilva.vercel.app">
     <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
+  <!-- <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
-  </a> 
+  </a>  -->
+  <a href="https://www.linkedin.com/in/filippo-de-silva/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="32" height="32" />
+</a>
 </p>
 
 ---
