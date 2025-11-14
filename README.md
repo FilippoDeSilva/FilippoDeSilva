@@ -77,9 +77,9 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <a href="https://t.me/Lt_Col_Sam">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/FilippoDeSilva">
+  <!-- <a href="https://github.com/FilippoDeSilva">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/filippo-de-silva/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
   </a> 
