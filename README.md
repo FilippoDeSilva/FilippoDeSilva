@@ -29,7 +29,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 | Category       | Tools |
 |----------------|-------|
 | **Frontend**   | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend**    | Node.js, Python |
+| **Backend**    | Node.js, Nest.js, Python |
 | **Automation** | Bash, PowerShell, Python |
 | **Security**   | Red/Blue Teaming |
 | **Database**   | PostgreSQL, MongoDB |
@@ -42,7 +42,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [**Class Unity SMS**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Supabase |
+| 🎓 [**Class Unity SMS**](https://github.com/FilippoDeSilva/class-unity-fullstack-SMS) | Full-stack school management system with role-based access, chat, and event features | Next.js, TypeScript, Clerk, Prisma ORM, Supabase, Stream Chat |
 | 📥 [**Cursor AI Bypass**](https://github.com/FilippoDeSilva/cursor-ai-bypass) | Bypasses free account usage limits detection in Cursor AI by generating random UUIDs | Python |
 | 🔓 [**Wi-Fi Bruteforce**](https://github.com/FilippoDeSilva/Wi-Fi-Bruteforce) | Multithreaded Wi-Fi password brute-forcing tool | Python |
 | 🎬 [**GoPlay**](https://github.com/FilippoDeSilva/go-play) | Movie/TV Show Streaming Website built for personal use. | Next.js, Typescript, TMDB, TailwindCSS |
