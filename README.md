@@ -87,4 +87,4 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 ---
 
-> ⏰ _Nothing easy is worth doing.!!_
+> ⏰ _Nothing easy is worth doing!_
