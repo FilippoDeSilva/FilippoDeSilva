@@ -55,7 +55,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" /> -->
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FilippoDeSilva&theme=tokyonight&hide_border=true&show_icons=true" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FilippoDeSilva&theme=catppuccin-mocha&hide_border=true&show_icons=true" />
 </p>
 
 <p align="center">
