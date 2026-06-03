@@ -59,7 +59,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
 </p>
 
 ---
