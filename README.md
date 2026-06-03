@@ -60,7 +60,7 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 
 <p align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" /> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
