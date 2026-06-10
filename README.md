@@ -54,13 +54,13 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" /> -->
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FilippoDeSilva&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+        <!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FilippoDeSilva&theme=dark&hide_border=true&show_icons=true" /> -->
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" /> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilippoDeSilva&theme=tokyonight" />
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> -->
 </p>
 
 ---
