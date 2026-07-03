@@ -54,6 +54,10 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
 ## 📈 GitHub Stats
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilippoDeSilva&theme=github_dark" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
         <!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FilippoDeSilva&theme=dark&hide_border=true&show_icons=true" /> -->
 </p>
