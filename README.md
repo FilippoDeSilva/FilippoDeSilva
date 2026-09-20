@@ -6,7 +6,7 @@
 <h3 align="center">Next.js Developer • Security Enthusiast • Toolmaker</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,typescript,python,c,rust,linux,bash,powershell,docker,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vitest,nestjs,nodejs,express,bun,typescript,python,go,prisma,postgres,mongodb,supabase,firebase,postman,redis,sentry,c,cpp,rust,lua,linux,kali,bash,powershell,docker,git,github" alt="Skills" />
 </p>
 
 ---
