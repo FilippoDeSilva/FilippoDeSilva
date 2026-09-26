@@ -68,6 +68,10 @@ Hi! I’m **Filippo** — a developer passionate about building tools, automatin
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> -->
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p> -->
+
 ---
 
 ### GitHub Contributions
