@@ -147,9 +147,6 @@ My approach is to understand the system, solve the underlying problem, and deliv
 
 ###
 
-<!-- Footer SVG -->
-[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -167,3 +164,6 @@ My approach is to understand the system, solve the underlying problem, and deliv
 ---
 
 > ⏰ *Nothing easy is worth doing!*
+
+<!-- Footer SVG -->
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)
