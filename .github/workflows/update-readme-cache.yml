@@ -23,12 +23,8 @@ jobs:
       - name: Update cache_bust and timestamp
         run: |
           FECHA=$(date -u '+%Y%m%d')
-          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
 
-          echo "🛠️ Updating README.md: $TIMESTAMP"
-
-          # Update the README.md timestamp at the top
-          sed -i "1s|^.*$|<!-- Last updated: $TIMESTAMP -->|" README.md
+          echo "🛠️ Updating README.md cache_bust: $FECHA"
 
           # Remove existing cache_bust parameters from all stats URLs
           sed -i -E 's|(https://github-readme-stats\.vercel\.app/api[^"]*)&cache_bust=[0-9]{8}|\1|g' README.md

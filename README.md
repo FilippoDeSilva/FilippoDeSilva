@@ -1,5 +1,3 @@
-<!-- Last updated: 2026-10-25 07:48:00 UTC -->
-
 <!-- Welcome typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -52,7 +50,9 @@ My experience spans fintech systems, backend services, payment integrations, dev
 
 ---
 
-## 🧰 Featured Projects
+<p align="center">
+  <img src="assets/projectsBR.png" alt="Projects" width="60%" />
+</p>
 
 | Project | Description | Tech |
 |---|---|---|
