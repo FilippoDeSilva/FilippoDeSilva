@@ -125,11 +125,6 @@ My approach is to understand the system, solve the underlying problem, and deliv
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=default" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=github_dark" alt="Stats" height="140" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=github_dark" alt="Productive time" height="140" />
-  </picture>
 </p>
 
 
@@ -137,9 +132,11 @@ My approach is to understand the system, solve the underlying problem, and deliv
 
 ### GitHub Contributions
 
+<!-- Snake animation commented out
 <p align="center">
   <img src="https://github.com/FilippoDeSilva/FilippoDeSilva/blob/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
+-->
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contributions visualization" />
