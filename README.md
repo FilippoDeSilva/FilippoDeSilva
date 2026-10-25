@@ -130,16 +130,6 @@ My approach is to understand the system, solve the underlying problem, and deliv
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=default" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=github_dark" alt="Productive time" height="140" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commit-stats?username=FilippoDeSilva&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commit-stats?username=FilippoDeSilva&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-stats?username=FilippoDeSilva&theme=github_dark" alt="Commit stats" height="140" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/prs?username=FilippoDeSilva&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/prs?username=FilippoDeSilva&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/prs?username=FilippoDeSilva&theme=github_dark" alt="PRs" height="140" />
-  </picture>
 </p>
 
 
