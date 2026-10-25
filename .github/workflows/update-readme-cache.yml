@@ -1,0 +1,47 @@
+name: ♻️ Update cache_bust and timestamp daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Once daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update cache_bust and timestamp
+        run: |
+          FECHA=$(date -u '+%Y%m%d')
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+          echo "🛠️ Updating README.md: $TIMESTAMP"
+
+          # Update the README.md timestamp at the top
+          sed -i "1s|^.*$|<!-- Last updated: $TIMESTAMP -->|" README.md
+
+          # Remove existing cache_bust parameters from all stats URLs
+          sed -i -E 's|(https://github-readme-stats\.vercel\.app/api[^"]*)&cache_bust=[0-9]{8}|\1|g' README.md
+          sed -i -E 's|(https://streak-stats\.demolab\.com[^"]*)&cache_bust=[0-9]{8}|\1|g' README.md
+
+          # Add cache_bust to all stats URLs
+          sed -i -E 's|(https://github-readme-stats\.vercel\.app/api[^"]+)(\")|\1\&cache_bust='"$FECHA"'\2|g' README.md
+          sed -i -E 's|(https://streak-stats\.demolab\.com[^"]+)(\")|\1\&cache_bust='"$FECHA"'\2|g' README.md
+
+          # Commit if there are changes
+          if git diff --quiet; then
+            echo "✅ No changes detected, no commit needed."
+          else
+            git add README.md
+            git commit -m "♻️ cache_bust updated to $FECHA"
+            git push
+            echo "✅ Commit sent with updated cache_bust."
+          fi

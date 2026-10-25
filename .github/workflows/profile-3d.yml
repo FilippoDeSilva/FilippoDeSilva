@@ -1,0 +1,29 @@
+name: 🧊 GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # Runs daily at 18:00 UTC
+  workflow_dispatch:       # Allows manual execution
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Contributions (Night Green)
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Profile 3D (Night Green)
+        uses: yoshi389111/github-profile-3d-contrib@0.9.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          args: --theme "night-green"
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "🌙 Update 3D contributions in night-green theme"
+          git push
