@@ -3,7 +3,7 @@
 <!-- Welcome typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@FilippoDeSilva's+repository;Full+Stack+Software+Engineer;Application+Security+Specialist;Toolmaker+at+Heart&center=true&size=36&color=39FF14&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@FilippoDeSilva's+repository;Bienvenido+al+repositorio+de+@FilippoDeSilva;Benvenuto+nel+repository+di+@FilippoDeSilva;Full+Stack+Software+Engineer;Application+Security+Specialist;Toolmaker+at+Heart&center=true&size=36&color=39FF14&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
   </a>
 </h1>
 
@@ -147,23 +147,8 @@ My approach is to understand the system, solve the underlying problem, and deliv
 
 ###
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDeSilva&theme=github-compact" alt="GitHub activity graph" />
-  </a>
-</p>
-
----
-
-<!-- Visitor Counter -->
-<p align="center">
-  <a href="https://count.getloli.com/" target="_blank">
-    <img src="https://count.getloli.com/get/@FilippoDeSilva_repo?theme=3d-num" alt="Visitor counter" />
-  </a>
-</p>
-
----
+<!-- Footer SVG -->
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)
 
 ## 🌐 Connect with Me
 
