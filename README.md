@@ -111,20 +111,16 @@ My approach is to understand the system, solve the underlying problem, and deliv
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=github_dark" alt="Repos per language" height="140" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=github_dark" alt="Most commit language" height="140" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=default" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=github_dark" alt="Stats" height="140" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" width="100%" />
+  </a>
 </p>
 
 
