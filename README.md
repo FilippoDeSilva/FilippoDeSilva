@@ -110,28 +110,38 @@ My approach is to understand the system, solve the underlying problem, and deliv
 </p>
 
 <p align="center">
-  <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats.vercel.app/api?username=FilippoDeSilva&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&cache_bust=20261025" alt="GitHub statistics including commits, pull requests, reviews and stars" height="195" />
-  </a>
-  <a href="https://github.com/FilippoDeSilva">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoDeSilva&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=320&cache_bust=20261025" alt="Top programming languages" height="195" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilippoDeSilva&theme=github_dark" alt="Repos per language" height="140" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilippoDeSilva&theme=github_dark" alt="Most commit language" height="140" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilippoDeSilva&theme=github_dark" alt="Stats" height="140" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilippoDeSilva&theme=github_dark" alt="Productive time" height="140" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commit-stats?username=FilippoDeSilva&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commit-stats?username=FilippoDeSilva&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-stats?username=FilippoDeSilva&theme=github_dark" alt="Commit stats" height="140" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/prs?username=FilippoDeSilva&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/prs?username=FilippoDeSilva&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/prs?username=FilippoDeSilva&theme=github_dark" alt="PRs" height="140" />
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak, including current and longest streaks" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FilippoDeSilva?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
-  <a href="https://github.com/FilippoDeSilva?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Projects-Explore-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred projects" />
-  </a>
-</p>
 
 ---
 
