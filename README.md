@@ -1,16 +1,16 @@
 <!-- Welcome typing animation -->
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@FilippoDeSilva's+repository;Bienvenido+al+repositorio+de+@FilippoDeSilva;Benvenuto+nel+repository+di+@FilippoDeSilva;Full+Stack+Software+Engineer;Application+Security+Specialist;Toolmaker+at+Heart&center=true&size=36&color=39FF14&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
   </a>
-</h1>
+</h1> -->
 
 ###
-
+<h1 align="center">
 <p align="center">
   <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=6c09b9524s7g29rxautb7bgiywmtzzyh15tg3ipw8399qrw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="Coding and cybersecurity animation" />
 </p>
-
+</h1>
 <h1 align="center">👋 Hi, I'm Filippo De Silva</h1>
 <h3 align="center">Full Stack Software Engineer • Application Security • Toolmaker</h3>
 
