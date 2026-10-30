@@ -119,7 +119,7 @@ My approach is to understand the system, solve the underlying problem, and deliv
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_bust=20261029" alt="GitHub contribution streak" width="100%" />
+    <img src="https://streak-stats.demolab.com?user=FilippoDeSilva&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_bust=20261030" alt="GitHub contribution streak" width="100%" />
   </a>
 </p>
 
